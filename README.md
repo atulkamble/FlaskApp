@@ -1,3 +1,9 @@
+# clone code 
+```
+git clone https://github.com/atulkamble/FlaskApp.git
+cd /FlaskApp
+```
+
 # FlaskApp
 
 ```
